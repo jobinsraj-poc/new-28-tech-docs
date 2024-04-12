@@ -1,0 +1,9 @@
+site_name: "new-28"
+site_description: "new-28"
+
+nav:
+  - Introduction: index.md
+  - Getting Started: getting-started.md
+
+plugins:
+  - techdocs-core
